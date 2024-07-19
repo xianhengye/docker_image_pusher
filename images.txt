@@ -1,1 +1,2 @@
 0nlylty/dockercopilot:UGREEN
+0nlylty/one-key-update:UGREEN
