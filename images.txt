@@ -8,3 +8,4 @@ easychen/cookiecloud
 v2fly/v2fly-core
 mzz2017/v2raya
 jeessy/ddns-go
+bestoray/pgyvpn
