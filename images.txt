@@ -9,3 +9,4 @@ v2fly/v2fly-core
 mzz2017/v2raya
 jeessy/ddns-go
 bestoray/pgyvpn
+v2raya/v2raya
