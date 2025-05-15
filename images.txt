@@ -2,7 +2,6 @@
 0nlylty/one-key-update:UGREEN
 jxxghp/moviepilot
 yipengfei/movie-robot
-lovechen/embyserver
 linuxserver/qbittorrent
 easychen/cookiecloud
 v2fly/v2fly-core
