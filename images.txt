@@ -11,3 +11,5 @@ jeessy/ddns-go
 bestoray/pgyvpn
 v2raya/v2raya
 iyuucn/iyuuplus-dev
+keynetworks/ztncui
+jonnyan404/zerotier-moon
